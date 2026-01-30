@@ -27,12 +27,5 @@ A modern chat application built with Next.js and TypeScript.
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhiraj309)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiraj--patil)  
-[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6C37?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/Dignity045)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6C37?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/Dignity045)  
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6C37?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/Dhiraj45)  
-
-
----
-
-## 📊 GitHub Stats
-
-![Dhiraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhiraj309&show_icons=true&theme=radical)
