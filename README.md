@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Dhiraj
+# Hello there 👋, I'm Dhiraj Patil
 
 I'm passionate about building clean, efficient software and data pipelines, especially in NLP and full-stack web development.
 
