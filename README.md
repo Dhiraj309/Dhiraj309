@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Dhiraj
+# Hello there 👋, I'm Dhiraj
 
 I'm passionate about building clean, efficient software and data pipelines, especially in NLP and full-stack web development.
 
